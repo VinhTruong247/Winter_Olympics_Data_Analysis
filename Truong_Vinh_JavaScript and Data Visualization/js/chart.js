@@ -106,7 +106,7 @@ new Chart(document.getElementById('top_5'), {
     options: {
     scales: {
         yAxes: [{
-            display: false
+            display: true
         }],
         xAxes: [{
             ticks: {
